@@ -3,7 +3,7 @@
 	<groupId>javahome</groupId>
 	<artifactId>Realtime</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.13-SNAPSHOT</version>
+	<version>0.0.13</version>
 	<name>ims Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
@@ -28,6 +28,7 @@
 			<developerConnection>scm:git:https://github.com/dasireddy4/new-ims.git</developerConnection>
 	  
    
+    <tag>Realtime-0.0.13</tag>
   </scm>
 	<!-- Remote changes-->
 	<!-- Add Nexus server details -->
