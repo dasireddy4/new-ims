@@ -23,11 +23,11 @@
 		<project.scm.id>gitserver</project.scm.id>
 	</properties>
 	<scm>
-			<url>https://github.com/dasireddy4/javaproject</url>
-			<connection>scm:git:https://github.com/dasireddy4/javaproject.git</connection>
-			<developerConnection>scm:git:https://github.com/dasireddy4/javaproject.git</developerConnection>
+			<url>https://github.com/dasireddy4/new-ims</url>
+			<connection>scm:git:https://github.com/dasireddy4/new-ims.git</connection>
+			<developerConnection>scm:git:https://github.com/dasireddy4/new-ims.git</developerConnection>
 	  
-    <tag>HEAD</tag>
+   
   </scm>
 	<!-- Remote changes-->
 	<!-- Add Nexus server details -->
